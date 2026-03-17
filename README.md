@@ -1,8 +1,8 @@
-# Privacy Policy for M-A-U-S Materiahlzählung
+# Privacy Policy for M-A-U-S Materialzählung
 
 **Last Updated:** March 2026
 
-This Privacy Policy describes how the **M-A-U-S Materiahlzählung** ("the App") handles data. This app is a professional utility designed for internal inventory management and barcode scanning.
+This Privacy Policy describes how the **M-A-U-S Materialzählung** ("the App") handles data. This app is a professional utility designed for internal inventory management and barcode scanning.
 
 ## 1. Overview
 The App is intended for internal company use to facilitate material counting and inventory updates. It connects to a private Odoo instance to synchronize stock levels.
@@ -21,4 +21,4 @@ The App is intended for internal company use to facilitate material counting and
 * **No Third-Party Sale:** We do not sell, rent, or share any data with unauthorized third parties or advertising networks.
 
 ## 5. Contact
-For any questions regarding this privacy policy or the data handled by **M-A-U-S Materiahlzählung**, please contact the developer via the contact information provided in the Google Play Store listing.
+For any questions regarding this privacy policy or the data handled by **M-A-U-S Materialzählung**, please contact the developer via the contact information provided in the Google Play Store listing.
